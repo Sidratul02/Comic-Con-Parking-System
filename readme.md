@@ -1,4 +1,4 @@
-# 🚗 Comic-Con Multi-Zone Parking System ER Diagram
+# Comic-Con Multi-Zone Parking System ER Diagram
 
 This ER diagram models a large-scale event parking system designed for venues like Comic-Con India, where thousands of vehicles arrive across multiple days and require structured parking management.
 
